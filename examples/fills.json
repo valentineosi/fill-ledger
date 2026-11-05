@@ -1,0 +1,71 @@
+[
+  {
+    "id": "f1",
+    "instrument": "ALPHA",
+    "side": "buy",
+    "quantity": 2,
+    "price": 100.0,
+    "time": "2026-03-02T14:31:00Z",
+    "fee": 1.2
+  },
+  {
+    "id": "f2",
+    "instrument": "ALPHA",
+    "side": "buy",
+    "quantity": 1,
+    "price": 101.5,
+    "time": "2026-03-02T14:40:00Z",
+    "fee": 0.6
+  },
+  {
+    "id": "f3",
+    "instrument": "ALPHA",
+    "side": "sell",
+    "quantity": 1,
+    "price": 104.0,
+    "time": "2026-03-02T15:05:00Z",
+    "fee": 0.6
+  },
+  {
+    "id": "f4",
+    "instrument": "ALPHA",
+    "side": "sell",
+    "quantity": 2,
+    "price": 103.0,
+    "time": "2026-03-02T15:20:00Z",
+    "fee": 1.2
+  },
+  {
+    "id": "f5",
+    "instrument": "BETA",
+    "side": "sell",
+    "quantity": 0.5,
+    "price": 2500.0,
+    "time": "2026-03-02T15:00:00Z"
+  },
+  {
+    "id": "f6",
+    "instrument": "BETA",
+    "side": "buy",
+    "quantity": 1.0,
+    "price": 2490.0,
+    "time": "2026-03-02T15:45:00Z"
+  },
+  {
+    "id": "f7",
+    "instrument": "BETA",
+    "side": "sell",
+    "quantity": 0.5,
+    "price": 2510.0,
+    "time": "2026-03-02T16:10:00Z"
+  },
+  {
+    "id": "f8",
+    "instrument": "ALPHA",
+    "side": "buy",
+    "quantity": 1,
+    "price": 102.0,
+    "time": "2026-03-03T14:35:00Z",
+    "fee": 0.6
+  }
+]
